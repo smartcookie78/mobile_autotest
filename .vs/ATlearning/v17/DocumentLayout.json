@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\C#\\autoTEST\\ATlearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\autotest\\atlearning\\atframework3demo\\testcases\\deals\\case_mobile_deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\testcases\\deals\\case_mobile_deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\autotest\\atlearning\\atframework3demo\\testcases\\case_bitrix24_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\testcases\\case_bitrix24_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\autotest\\atlearning\\atframework3demo\\pageobjects\\mobile\\newdealbasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\pageobjects\\mobile\\newdealbasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Case_Mobile_Deals.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\autoTEST\\ATlearning\\ATframework3demo\\TestCases\\Deals\\Case_Mobile_Deals.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\TestCases\\Deals\\Case_Mobile_Deals.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\autoTEST\\ATlearning\\ATframework3demo\\TestCases\\Deals\\Case_Mobile_Deals.cs",
+              "RelativeToolTip": "ATframework3demo\\TestCases\\Deals\\Case_Mobile_Deals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:45:30.722Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Case_Bitrix24_Settings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\autoTEST\\ATlearning\\ATframework3demo\\TestCases\\Case_Bitrix24_Settings.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\TestCases\\Case_Bitrix24_Settings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\autoTEST\\ATlearning\\ATframework3demo\\TestCases\\Case_Bitrix24_Settings.cs",
+              "RelativeToolTip": "ATframework3demo\\TestCases\\Case_Bitrix24_Settings.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:36:12.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewDealBasePage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\autoTEST\\ATlearning\\ATframework3demo\\PageObjects\\Mobile\\NewDealBasePage.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\PageObjects\\Mobile\\NewDealBasePage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\autoTEST\\ATlearning\\ATframework3demo\\PageObjects\\Mobile\\NewDealBasePage.cs",
+              "RelativeToolTip": "ATframework3demo\\PageObjects\\Mobile\\NewDealBasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:33:53.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

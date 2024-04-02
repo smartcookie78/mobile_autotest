@@ -1,0 +1,3 @@
+https://b24-j40hfe.bitrix24.ru
+qa-test-bitrix228@mail.ru
+bitrixTestQA_2
